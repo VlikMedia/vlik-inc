@@ -8,3 +8,4 @@ The project is maintained independently and is not affiliated with or endorsed b
 # Other services
 * Vlik Globe
 * Vlik Search [unreleased]
+* VLIKWORLD [unreleased]
